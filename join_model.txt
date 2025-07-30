@@ -1,0 +1,3 @@
+dsivaji@Dineshs-MacBook-Pro gliner_base % md5sum pytorch_model.bin_splitted/pytorch_model.bin
+1634c84225235416ab9fc305d276caa7  pytorch_model.bin_splitted/pytorch_model.bin
+dsivaji@Dineshs-MacBook-Pro gliner_base %
